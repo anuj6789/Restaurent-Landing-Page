@@ -1,2 +1,4 @@
-# Restaurent-Landing-Page
-Restaurent-Landing-Page
+### Resturent landing page by React js
+
+### Live Demo
+https://resturent-landing-page.netlify.app/
